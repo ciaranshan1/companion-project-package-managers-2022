@@ -1,4 +1,4 @@
-# About
+# About me
 
 This is a companion project for my article about package managers.
 
